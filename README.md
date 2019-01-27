@@ -1,2 +1,5 @@
 # computer-graphics
-i don't know what to put here
+<ul>
+  <li>Opengl basics</li>
+  <li>Ray Tracer</li>
+<ul>
